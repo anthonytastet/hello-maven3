@@ -1,5 +1,5 @@
 package fr.hello;
-import fr.hello.Afficher
+import fr.hello.Afficher;
 
 public class HelloWorld {
 

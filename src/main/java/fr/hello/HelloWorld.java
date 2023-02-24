@@ -11,7 +11,7 @@ public class HelloWorld {
 		 * encore
 		 * hhh
 		 */
-		
+		//hola que tal
 		String message = "Hello Maven World";
 		
 		Afficher A = new Afficher( );
